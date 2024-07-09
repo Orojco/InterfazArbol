@@ -38,6 +38,6 @@ Lo abrimos desde IntelliJ IDEA
 
 ![Captura-de-pantalla-2024-07-09-090402.png](https://i.postimg.cc/8c5zyf2r/Captura-de-pantalla-2024-07-09-090402.png)
 
-Ejecutamos el Archivo **BSTApp**
+ Y al final Ejecutamos el Archivo **BSTApp**
 
 ![Captura-de-pantalla-2024-07-09-090529.png](https://i.postimg.cc/kgxqvy2p/Captura-de-pantalla-2024-07-09-090529.png)
