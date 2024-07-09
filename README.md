@@ -15,5 +15,14 @@ Ingresamos los valores
 Nos muestra los valores previamente ingresados  
 ![Captura-de-pantalla-2024-07-09-085134.png](https://i.postimg.cc/B6jzMqhn/Captura-de-pantalla-2024-07-09-085134.png)
 
-![Captura-de-pantalla-2024-07-09-085339.png](https://i.postimg.cc/htCMwkQz/Captura-de-pantalla-2024-07-09-085339.png)
-![Captura-de-pantalla-2024-07-09-085239.png](https://i.postimg.cc/bJ4B5KMH/Captura-de-pantalla-2024-07-09-085239.png)
+Tenemos los valores en Inorden 
+
+![Captura-de-pantalla-2024-07-09-085600.png](https://i.postimg.cc/DzXsgHrK/Captura-de-pantalla-2024-07-09-085600.png)
+
+Tenemos los valores en Preorden 
+
+![Captura-de-pantalla-2024-07-09-085710.png](https://i.postimg.cc/P5BvPyBV/Captura-de-pantalla-2024-07-09-085710.png)
+
+Tenemos los valores en Preorden 
+
+![Captura-de-pantalla-2024-07-09-085807.png](https://i.postimg.cc/1tSgKtRp/Captura-de-pantalla-2024-07-09-085807.png)
