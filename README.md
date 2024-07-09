@@ -19,10 +19,10 @@ Tenemos los valores en Inorden
 
 ![Captura-de-pantalla-2024-07-09-085600.png](https://i.postimg.cc/DzXsgHrK/Captura-de-pantalla-2024-07-09-085600.png)
 
-Tenemos los valores en Preorden 
+Tenemos los valores en Preorden
 
 ![Captura-de-pantalla-2024-07-09-085710.png](https://i.postimg.cc/P5BvPyBV/Captura-de-pantalla-2024-07-09-085710.png)
 
-Tenemos los valores en Preorden 
+Tenemos los valores en PosTorden
 
 ![Captura-de-pantalla-2024-07-09-085807.png](https://i.postimg.cc/1tSgKtRp/Captura-de-pantalla-2024-07-09-085807.png)
