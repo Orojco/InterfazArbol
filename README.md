@@ -26,3 +26,18 @@ Tenemos los valores en Preorden
 Tenemos los valores en PosTorden
 
 ![Captura-de-pantalla-2024-07-09-085807.png](https://i.postimg.cc/1tSgKtRp/Captura-de-pantalla-2024-07-09-085807.png)
+
+
+**Como Usar:**
+
+Primero descargamos los archivos desde el repositorio 
+
+![Captura-de-pantalla-2024-07-09-090223.png](https://i.postimg.cc/mgFtfMtY/Captura-de-pantalla-2024-07-09-090223.png)
+
+Lo abrimos desde IntelliJ IDEA
+
+![Captura-de-pantalla-2024-07-09-090402.png](https://i.postimg.cc/8c5zyf2r/Captura-de-pantalla-2024-07-09-090402.png)
+
+Ejecutamos el Archivo **BSTApp**
+
+![Captura-de-pantalla-2024-07-09-090529.png](https://i.postimg.cc/kgxqvy2p/Captura-de-pantalla-2024-07-09-090529.png)
