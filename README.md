@@ -13,4 +13,4 @@
 
 ![Captura-de-pantalla-2024-07-02-093948.png](https://i.postimg.cc/J49KbYhG/Captura-de-pantalla-2024-07-02-093948.png)
 
-![Captura-de-pantalla-2024-07-09-084808.png](https://i.postimg.cc/tTc5TWNX/Captura-de-pantalla-2024-07-09-084808.png)
+![Captura-de-pantalla-2024-07-09-084808.png](https://i.postimg.cc/x8bPb86L/Captura-de-pantalla-2024-07-09-084808.png)
